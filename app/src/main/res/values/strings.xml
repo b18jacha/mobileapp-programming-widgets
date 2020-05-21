@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Another sick widget app</string>
+    <string name="info_about_button">info about button</string>
+    <string name="klicka_p_knappen_f_r_en_chans_p_1_miljon_gp_p_osrs">Klicka på knappen för en chans på 1 miljon GP på OSRS</string>
+    <string name="button_to_roll">button to roll</string>
+    <string name="klicka_h_r">Klicka här</string>
+    <string name="casino_logo">casino logo</string>
 </resources>
